@@ -1,0 +1,1001 @@
+id,campaign_name,event_type,app_user_id,app_user_gender,event_date,app_device_type
+1,Core,Scan,3422,Female,2020-08-08T13:30:41.860000,Android
+2,Future-Proofed,Click,3422,Female,2020-08-08T13:30:09.963000,Android
+3,Future-Proofed,Scan,3422,Female,2020-08-08T13:29:53.897000,Android
+4,Advanced,Scan,3422,Female,2020-08-08T13:28:54.230000,Android
+5,Future-Proofed,Click,3422,Female,2020-08-08T13:27:41.150000,Android
+6,Future-Proofed,Scan,3422,Female,2020-08-08T13:27:19.387000,Android
+7,Focus Group,Switch to Fullscreen Video,1645,Not Specified,2020-08-08T13:36:23.727000,iOS
+8,Focus Group,Scan,1645,Not Specified,2020-08-08T13:36:07.987000,iOS
+9,24 Hour,Click,3422,Female,2020-08-08T13:32:40.490000,Android
+10,24 Hour,Click,3422,Female,2020-08-08T13:32:33.003000,Android
+11,24 Hour,Click,3422,Female,2020-08-08T13:32:20.830000,Android
+12,24 Hour,Scan,3422,Female,2020-08-08T13:32:07.660000,Android
+13,Core,Click,3422,Female,2020-08-08T13:31:44.937000,Android
+14,Focus Group,Switch to Fullscreen Video,5116,Female,2020-08-08T15:19:12.810000,iOS
+15,Focus Group,Scan,5116,Female,2020-08-08T15:19:06.473000,iOS
+16,Flexibility,Scan,1886,Female,2020-08-08T15:15:45.260000,Android
+17,Flexibility,Scan,1886,Female,2020-08-08T15:15:37.433000,Android
+18,Managed,Image Gallery,1886,Female,2020-08-08T15:15:11.610000,Android
+19,Managed,Scan,1886,Female,2020-08-08T15:15:10.560000,Android
+20,Managed,Scan,1886,Female,2020-08-08T15:14:48.047000,Android
+21,Managed,Image Gallery,1886,Female,2020-08-08T15:14:47.793000,Android
+22,Managed,Other,1886,Female,2020-08-08T15:14:05.750000,Android
+23,Managed,Image Gallery,1886,Female,2020-08-08T15:13:19.803000,Android
+24,Managed,Scan,1886,Female,2020-08-08T15:13:19.773000,Android
+25,Managed,Image Gallery,1886,Female,2020-08-08T15:13:02.260000,Android
+26,Managed,Scan,1886,Female,2020-08-08T15:13:01.943000,Android
+27,Fully-Configurable,Scan,1886,Female,2020-08-08T15:11:49.970000,Android
+28,Focus Group,Switch to Fullscreen Video,5116,Female,2020-08-08T15:21:24.737000,iOS
+29,Advanced,Click,2702,Male,2020-08-08T16:20:32.380000,iOS
+30,Advanced,Scan,2702,Male,2020-08-08T16:19:19.507000,iOS
+31,Focus Group,Switch to Fullscreen Video,8686,Female,2020-08-08T16:16:34.807000,iOS
+32,Focus Group,Scan,8686,Female,2020-08-08T16:16:16.370000,iOS
+33,Mobile,Scan,1961,Not Specified,2020-08-08T16:45:27.360000,Android
+34,Fully-Configurable,Scan,1961,Not Specified,2020-08-08T16:44:40.443000,Android
+35,Managed,Other,1961,Not Specified,2020-08-08T16:44:12.823000,Android
+36,Managed,Image Gallery,1961,Not Specified,2020-08-08T16:41:27.400000,Android
+37,Managed,Scan,1961,Not Specified,2020-08-08T16:41:26.590000,Android
+38,Focus Group,Switch to Fullscreen Video,8019,Female,2020-08-08T18:00:37.367000,iOS
+39,Focus Group,Switch to Fullscreen Video,8019,Female,2020-08-08T17:59:43.670000,iOS
+40,Bottom-Line,Click,9212,Female,2020-08-08T17:58:18.120000,iOS
+41,Focus Group,Switch to Fullscreen Video,8019,Female,2020-08-08T17:58:04.080000,iOS
+42,Focus Group,Scan,8019,Female,2020-08-08T17:57:44.607000,iOS
+43,Bottom-Line,Click,9212,Female,2020-08-08T17:57:37.200000,iOS
+44,Bottom-Line,Click,9212,Female,2020-08-08T17:55:57.160000,iOS
+45,Bottom-Line,Hub,9212,Female,2020-08-08T17:55:50.870000,iOS
+46,Graphic Interface,Scan,3422,Female,2020-08-08T18:20:08.370000,Android
+47,Focus Group,Switch to Fullscreen Video,8640,Not Specified,2020-08-08T18:19:26.943000,iOS
+48,Graphic Interface,Scan,3422,Female,2020-08-08T18:19:26.893000,Android
+49,Focus Group,Scan,8640,Not Specified,2020-08-08T18:19:18.700000,iOS
+50,Advanced,Scan,216,Male,2020-08-08T18:52:11.080000,Android
+51,Focus Group,Switch to Fullscreen Video,7910,Female,2020-08-08T19:05:41.697000,Android
+52,Focus Group,Scan,7910,Female,2020-08-08T19:05:19.750000,Android
+53,Future-Proofed,Scan,7646,Female,2020-08-09T10:37:09.383000,iOS
+54,Future-Proofed,Click,2624,Not Specified,2020-08-09T10:33:33.393000,iOS
+55,Future-Proofed,Scan,2624,Not Specified,2020-08-09T10:33:28.927000,iOS
+56,Managed,Other,1778,Male,2020-08-09T11:40:37.390000,Android
+57,Managed,Image Gallery,1778,Male,2020-08-09T11:40:32.350000,Android
+58,Managed,Scan,1778,Male,2020-08-09T11:40:32.330000,Android
+59,Managed,Image Gallery,1778,Male,2020-08-09T11:40:29.487000,Android
+60,Managed,Scan,1778,Male,2020-08-09T11:40:29.353000,Android
+61,Managed,Scan,1778,Male,2020-08-09T11:40:25.620000,Android
+62,Managed,Image Gallery,1778,Male,2020-08-09T11:40:25.537000,Android
+63,Managed,Image Gallery,1778,Male,2020-08-09T11:40:19.907000,Android
+64,Managed,Scan,1778,Male,2020-08-09T11:40:19.770000,Android
+65,Managed,Image Gallery,1778,Male,2020-08-09T11:40:16.940000,Android
+66,Managed,Scan,1778,Male,2020-08-09T11:40:16.930000,Android
+67,Managed,Image Gallery,1778,Male,2020-08-09T11:40:13.720000,Android
+68,Managed,Scan,1778,Male,2020-08-09T11:40:13.690000,Android
+69,Managed,Scan,1778,Male,2020-08-09T11:40:07.110000,Android
+70,Managed,Image Gallery,1778,Male,2020-08-09T11:40:07.033000,Android
+71,Managed,Scan,1778,Male,2020-08-09T11:39:59.623000,Android
+72,Managed,Image Gallery,1778,Male,2020-08-09T11:39:59.580000,Android
+73,Managed,Image Gallery,1778,Male,2020-08-09T11:39:47.400000,Android
+74,Managed,Scan,1778,Male,2020-08-09T11:39:47.370000,Android
+75,Budgetary Management,Click,1778,Male,2020-08-09T11:39:29.113000,Android
+76,Budgetary Management,Scan,1778,Male,2020-08-09T11:39:29.083000,Android
+77,Budgetary Management,Click,1778,Male,2020-08-09T11:39:22.620000,Android
+78,Budgetary Management,Scan,1778,Male,2020-08-09T11:39:22.600000,Android
+79,Data-Warehouse,Scan,1778,Male,2020-08-09T11:39:05.053000,Android
+80,Data-Warehouse,Scan,1778,Male,2020-08-09T11:38:57.650000,Android
+81,Budgetary Management,Click,1778,Male,2020-08-09T11:38:34.397000,Android
+82,Budgetary Management,Scan,1778,Male,2020-08-09T11:38:34.320000,Android
+83,Data-Warehouse,Scan,1778,Male,2020-08-09T11:38:08.203000,Android
+84,Hybrid,Scan,1778,Male,2020-08-09T11:37:56.850000,Android
+85,Hybrid,Scan,1778,Male,2020-08-09T11:37:47.420000,Android
+86,Data-Warehouse,Other,1778,Male,2020-08-09T11:36:44.957000,Android
+87,Data-Warehouse,Scan,1778,Male,2020-08-09T11:36:44.420000,Android
+88,Data-Warehouse,Scan,1778,Male,2020-08-09T11:36:38.310000,Android
+89,Data-Warehouse,Scan,1778,Male,2020-08-09T11:36:05.140000,Android
+90,Data-Warehouse,Other,1778,Male,2020-08-09T11:33:43.950000,Android
+91,Data-Warehouse,Scan,1778,Male,2020-08-09T11:33:36.530000,Android
+92,Data-Warehouse,Scan,1778,Male,2020-08-09T11:33:25.870000,Android
+93,Data-Warehouse,Scan,1778,Male,2020-08-09T11:33:06.800000,Android
+94,Data-Warehouse,Scan,1778,Male,2020-08-09T11:32:56.463000,Android
+95,Fully-Configurable,Other,1778,Male,2020-08-09T11:32:16.690000,Android
+96,Fully-Configurable,Scan,1778,Male,2020-08-09T11:32:02.990000,Android
+97,Fully-Configurable,Scan,1778,Male,2020-08-09T11:31:52.887000,Android
+98,Core,Click,2624,Not Specified,2020-08-09T11:54:37.720000,iOS
+99,Core,Click,2624,Not Specified,2020-08-09T11:54:32.003000,iOS
+100,Core,Scan,2624,Not Specified,2020-08-09T11:54:24.720000,iOS
+101,Focus Group,Switch to Fullscreen Video,6878,Female,2020-08-09T12:25:39.773000,iOS
+102,Focus Group,Switch to Fullscreen Video,6878,Female,2020-08-09T12:22:51.653000,iOS
+103,Focus Group,Scan,6878,Female,2020-08-09T12:22:35.487000,iOS
+104,24 Hour,Click,3370,Not Specified,2020-08-09T13:05:51.610000,iOS
+105,24 Hour,Scan,3370,Not Specified,2020-08-09T13:05:08.453000,iOS
+106,Virtual,Scan,8923,Not Specified,2020-08-09T14:30:29.650000,Android
+107,Focus Group,Switch to Fullscreen Video,3313,Female,2020-08-09T14:37:37.630000,Android
+108,Focus Group,Scan,3313,Female,2020-08-09T14:36:14.750000,Android
+109,Ameliorated,Loved,8923,Not Specified,2020-08-09T14:35:36.480000,Android
+110,Ameliorated,Scan,8923,Not Specified,2020-08-09T14:33:00.497000,Android
+111,Future-Proofed,Click,7861,Male,2020-08-09T14:49:16.193000,iOS
+112,Future-Proofed,Click,7861,Male,2020-08-09T14:48:35.727000,iOS
+113,Future-Proofed,Scan,7861,Male,2020-08-09T14:48:18.600000,iOS
+114,Future-Proofed,Click,7861,Male,2020-08-09T14:56:00.820000,iOS
+115,Future-Proofed,Click,7861,Male,2020-08-09T14:54:32.130000,iOS
+116,Future-Proofed,Scan,7861,Male,2020-08-09T14:54:22.337000,iOS
+117,Core,Click,7861,Male,2020-08-09T14:53:31.980000,iOS
+118,Core,Scan,7861,Male,2020-08-09T14:53:04.333000,iOS
+119,Advanced,Click,7861,Male,2020-08-09T14:51:40.507000,iOS
+120,Advanced,Scan,7861,Male,2020-08-09T14:51:15.667000,iOS
+121,Focus Group,Switch to Fullscreen Video,3107,Female,2020-08-09T16:19:23.170000,Android
+122,Focus Group,Scan,3107,Female,2020-08-09T16:19:04.313000,Android
+123,Focus Group,Switch to Fullscreen Video,7328,Female,2020-08-09T16:28:40.263000,iOS
+124,Focus Group,Switch to Fullscreen Video,7328,Female,2020-08-09T16:28:14.837000,iOS
+125,Focus Group,Scan,7328,Female,2020-08-09T16:28:01.500000,iOS
+126,Focus Group,Other,7910,Female,2020-08-09T16:39:32.177000,Android
+127,Focus Group,Switch to Fullscreen Video,7910,Female,2020-08-09T16:36:46.300000,Android
+128,Focus Group,Scan,7910,Female,2020-08-09T16:36:17.740000,Android
+129,Focus Group,Switch to Fullscreen Video,5894,Female,2020-08-09T16:36:10.650000,iOS
+130,Focus Group,Switch to Fullscreen Video,5894,Female,2020-08-09T16:35:06.430000,iOS
+131,Focus Group,Switch to Fullscreen Video,5894,Female,2020-08-09T16:34:56.230000,iOS
+132,Focus Group,Scan,5894,Female,2020-08-09T16:34:15.990000,iOS
+133,Focus Group,Switch to Fullscreen Video,9036,Not Specified,2020-08-09T16:59:16.570000,iOS
+134,Focus Group,Scan,9036,Not Specified,2020-08-09T16:59:01.337000,iOS
+135,Focus Group,Scan,9036,Not Specified,2020-08-09T16:58:40.127000,iOS
+136,Focus Group,Switch to Fullscreen Video,9036,Not Specified,2020-08-09T17:01:52.223000,iOS
+137,Focus Group,Switch to Fullscreen Video,9036,Not Specified,2020-08-09T17:01:34.737000,iOS
+138,Focus Group,Switch to Fullscreen Video,9222,Male,2020-08-09T17:19:52.823000,iOS
+139,Focus Group,Scan,9222,Male,2020-08-09T17:19:44.330000,iOS
+140,Focus Group,Switch to Fullscreen Video,9222,Male,2020-08-09T17:19:04.497000,iOS
+141,Focus Group,Scan,9222,Male,2020-08-09T17:18:43.080000,iOS
+142,Stable,Loved,2927,Other,2020-08-09T17:34:10.257000,iOS
+143,Full-Range,Loved,2927,Other,2020-08-09T17:33:58.853000,iOS
+144,Focus Group,Switch to Fullscreen Video,5941,Female,2020-08-09T19:06:02.780000,iOS
+145,Focus Group,Scan,5941,Female,2020-08-09T19:05:38.707000,iOS
+146,Focus Group,Switch to Fullscreen Video,4303,Female,2020-08-09T20:42:00.013000,Android
+147,Focus Group,Scan,4303,Female,2020-08-09T20:41:41.777000,Android
+148,Focus Group,Scan,153,Female,2020-08-09T22:08:53.577000,iOS
+149,Directional,Click,5039,Male,2020-08-09T23:23:04.243000,iOS
+150,Directional,Scan,5039,Male,2020-08-09T23:23:04.077000,iOS
+151,Bottom-Line,Hub,5039,Male,2020-08-09T23:22:44.660000,iOS
+152,24/07,Scan,5039,Male,2020-08-09T23:22:20.193000,iOS
+153,Complexity,Scan,5039,Male,2020-08-09T23:22:00.730000,iOS
+154,Zero Administration,Scan,5039,Male,2020-08-09T23:21:29.237000,iOS
+155,24/07,Scan,5039,Male,2020-08-09T23:21:03.600000,iOS
+156,Fully-Configurable,Scan,1961,Not Specified,2020-08-10T05:50:05,Android
+157,Function,Scan,9193,Female,2020-08-10T05:56:29.083000,Android
+158,Function,Scan,9193,Female,2020-08-10T05:56:07.597000,Android
+159,Function,Scan,9193,Female,2020-08-10T05:55:50.810000,Android
+160,Function,Scan,9193,Female,2020-08-10T05:54:59.793000,Android
+161,Function,Scan,9193,Female,2020-08-10T05:54:54.303000,Android
+162,Function,Scan,9193,Female,2020-08-10T05:54:26.717000,Android
+163,Fully-Configurable,Loved,9193,Female,2020-08-10T06:10:39.583000,Android
+164,Fully-Configurable,Scan,9193,Female,2020-08-10T06:10:28.800000,Android
+165,Fully-Configurable,Scan,9193,Female,2020-08-10T06:09:38.137000,Android
+166,Fully-Configurable,Scan,9193,Female,2020-08-10T06:09:27.583000,Android
+167,Fully-Configurable,Scan,9193,Female,2020-08-10T06:09:06.527000,Android
+168,Fully-Configurable,Scan,9193,Female,2020-08-10T06:09:00.910000,Android
+169,Flexibility,Other,9193,Female,2020-08-10T06:20:32.040000,Android
+170,Flexibility,Scan,9193,Female,2020-08-10T06:12:33.833000,Android
+171,Flexibility,Loved,9193,Female,2020-08-10T06:11:57.797000,Android
+172,Flexibility,Scan,9193,Female,2020-08-10T06:11:45.753000,Android
+173,Flexibility,Scan,9193,Female,2020-08-10T06:11:43.593000,Android
+174,Fully-Configurable,Loved,9193,Female,2020-08-10T06:11:14.027000,Android
+175,Fully-Configurable,Scan,9193,Female,2020-08-10T06:10:54,Android
+176,Asynchronous,Switch to Fullscreen Video,7660,Male,2020-08-10T08:10:36.183000,iOS
+177,Asynchronous,Scan,7660,Male,2020-08-10T08:10:20.457000,iOS
+178,Bottom-Line,Switch to Fullscreen Video,7660,Male,2020-08-10T08:09:10.167000,iOS
+179,Bottom-Line,Switch to Fullscreen Video,7660,Male,2020-08-10T08:08:59.807000,iOS
+180,Bottom-Line,Hub,7660,Male,2020-08-10T08:08:02.187000,iOS
+181,Asynchronous,Image Gallery,7660,Male,2020-08-10T08:07:41.293000,iOS
+182,Asynchronous,Image Gallery,7660,Male,2020-08-10T08:07:23.337000,iOS
+183,Asynchronous,Scan,7660,Male,2020-08-10T08:07:16.330000,iOS
+184,Focus Group,Switch to Fullscreen Video,7037,Female,2020-08-10T08:06:33.013000,iOS
+185,Focus Group,Switch to Fullscreen Video,7037,Female,2020-08-10T08:06:18.910000,iOS
+186,Focus Group,Scan,7037,Female,2020-08-10T08:05:57.920000,iOS
+187,Bottom-Line,Switch to Fullscreen Video,7660,Male,2020-08-10T08:14:21.683000,iOS
+188,Bottom-Line,Hub,7660,Male,2020-08-10T08:14:17.757000,iOS
+189,Asynchronous,Image Gallery,7660,Male,2020-08-10T08:14:06.427000,iOS
+190,Asynchronous,Switch to Fullscreen Video,7660,Male,2020-08-10T08:12:56.990000,iOS
+191,Asynchronous,Switch to Fullscreen Video,7660,Male,2020-08-10T08:12:53.387000,iOS
+192,Asynchronous,Switch to Fullscreen Video,7660,Male,2020-08-10T08:11:42.480000,iOS
+193,Migration,Click,2449,Male,2020-08-10T09:29:51.017000,Android
+194,Migration,Scan,2449,Male,2020-08-10T09:29:50.963000,Android
+195,3Rd Generation,Scan,2449,Male,2020-08-10T09:29:24.663000,Android
+196,Bi-Directional,Click,2449,Male,2020-08-10T09:28:44.017000,Android
+197,Bi-Directional,Scan,2449,Male,2020-08-10T09:28:38.760000,Android
+198,Artificial Intelligence,Scan,2449,Male,2020-08-10T09:28:27.990000,Android
+199,Bi-Directional,Scan,2449,Male,2020-08-10T09:28:11.570000,Android
+200,Artificial Intelligence,Click,2449,Male,2020-08-10T09:27:49.860000,Android
+201,Artificial Intelligence,Scan,2449,Male,2020-08-10T09:27:29.193000,Android
+202,Artificial Intelligence,Click,2449,Male,2020-08-10T09:27:12.757000,Android
+203,Artificial Intelligence,Scan,2449,Male,2020-08-10T09:27:05.550000,Android
+204,3Rd Generation,Scan,2449,Male,2020-08-10T09:26:25.897000,Android
+205,Focus Group,Switch to Fullscreen Video,8428,Male,2020-08-10T09:35:18.320000,iOS
+206,Focus Group,Scan,8428,Male,2020-08-10T09:34:54.440000,iOS
+207,Migration,Other,2449,Male,2020-08-10T09:31:42.963000,Android
+208,Focus Group,Switch to Fullscreen Video,8019,Female,2020-08-10T09:48:40.560000,iOS
+209,Focus Group,Scan,8019,Female,2020-08-10T09:48:30.683000,iOS
+210,Focus Group,Switch to Fullscreen Video,1807,Female,2020-08-10T09:57:14.060000,iOS
+211,Focus Group,Scan,1807,Female,2020-08-10T09:56:56.203000,iOS
+212,Optimized,Scan,1078,Male,2020-08-10T12:40:14.820000,iOS
+213,Optimized,Scan,1078,Male,2020-08-10T12:39:45.533000,iOS
+214,Time-Frame,Scan,3274,Male,2020-08-10T12:46:36.730000,iOS
+215,Benchmark,Scan,1078,Male,2020-08-10T12:41:29.413000,iOS
+216,Scalable,Scan,1078,Male,2020-08-10T12:40:52.620000,iOS
+217,Focus Group,Switch to Fullscreen Video,153,Female,2020-08-10T13:08:20.590000,iOS
+218,Focus Group,Scan,153,Female,2020-08-10T13:08:09.673000,iOS
+219,Focus Group,Switch to Fullscreen Video,153,Female,2020-08-10T13:11:04.277000,iOS
+220,Managed,Image Gallery,7966,Not Specified,2020-08-10T13:22:14.310000,iOS
+221,Managed,Scan,7966,Not Specified,2020-08-10T13:22:14.293000,iOS
+222,Managed,Image Gallery,7966,Not Specified,2020-08-10T13:21:50.213000,iOS
+223,Managed,Scan,7966,Not Specified,2020-08-10T13:21:50.193000,iOS
+224,Managed,Image Gallery,7966,Not Specified,2020-08-10T13:21:40.107000,iOS
+225,Managed,Scan,7966,Not Specified,2020-08-10T13:21:39.933000,iOS
+226,24 Hour,Click,3617,Male,2020-08-10T13:59:42.117000,Android
+227,24 Hour,Scan,3617,Male,2020-08-10T13:59:22.963000,Android
+228,24 Hour,Scan,3617,Male,2020-08-10T13:58:56.277000,Android
+229,24 Hour,Other,3617,Male,2020-08-10T13:58:32.493000,Android
+230,24 Hour,Click,3617,Male,2020-08-10T13:57:16.260000,Android
+231,24 Hour,Scan,3617,Male,2020-08-10T13:56:49.057000,Android
+232,24 Hour,Other,3617,Male,2020-08-10T13:56:30.330000,Android
+233,24 Hour,Click,3617,Male,2020-08-10T13:55:54.933000,Android
+234,24 Hour,Click,3617,Male,2020-08-10T13:55:54.733000,Android
+235,24 Hour,Scan,3617,Male,2020-08-10T13:54:52.120000,Android
+236,Future-Proofed,Click,3617,Male,2020-08-10T14:03:34.073000,Android
+237,Future-Proofed,Scan,3617,Male,2020-08-10T14:02:09.053000,Android
+238,24 Hour,Other,3617,Male,2020-08-10T14:01:46.670000,Android
+239,Focus Group,Switch to Fullscreen Video,926,Female,2020-08-10T14:33:06.880000,iOS
+240,Focus Group,Switch to Fullscreen Video,926,Female,2020-08-10T14:31:51.187000,iOS
+241,Focus Group,Scan,926,Female,2020-08-10T14:31:39.780000,iOS
+242,Focus Group,Switch to Fullscreen Video,2796,Male,2020-08-10T15:36:47.877000,iOS
+243,Focus Group,Scan,2796,Male,2020-08-10T15:36:30.710000,iOS
+244,Bottom-Line,Click,2796,Male,2020-08-10T15:36:08.270000,iOS
+245,Bottom-Line,Hub,2796,Male,2020-08-10T15:35:54.590000,iOS
+246,Focus Group,Scan,2796,Male,2020-08-10T15:35:30.180000,iOS
+247,Uniform,Scan,6773,Female,2020-08-10T16:54:03.840000,iOS
+248,Focus Group,Switch to Fullscreen Video,4862,Not Specified,2020-08-10T16:52:18.630000,iOS
+249,Focus Group,Scan,4862,Not Specified,2020-08-10T16:52:09.530000,iOS
+250,Clear-Thinking,Scan,6773,Female,2020-08-10T16:51:52.680000,iOS
+251,Scalable,Scan,4996,Not Specified,2020-08-10T18:37:58.300000,iOS
+252,Fully-Configurable,Other,1778,Male,2020-08-10T19:08:09.147000,Android
+253,Fully-Configurable,Scan,1778,Male,2020-08-10T19:07:33.950000,Android
+254,Focus Group,Switch to Fullscreen Video,8640,Not Specified,2020-08-10T19:04:19.717000,iOS
+255,Focus Group,Scan,8640,Not Specified,2020-08-10T19:04:14.567000,iOS
+256,Optimized,Scan,1078,Male,2020-08-10T19:23:56.637000,iOS
+257,Cohesive,Scan,2729,Not Specified,2020-08-10T19:50:29.760000,iOS
+258,Zero Administration,Scan,2729,Not Specified,2020-08-10T19:50:14.183000,iOS
+259,Zero Administration,Scan,2729,Not Specified,2020-08-10T19:49:54.623000,iOS
+260,Bottom-Line,Hub,7660,Male,2020-08-10T20:00:00.027000,iOS
+261,Foreground,Image Gallery,7660,Male,2020-08-10T19:57:13.503000,iOS
+262,Foreground,Scan,7660,Male,2020-08-10T19:57:13.467000,iOS
+263,Foreground,Image Gallery,7660,Male,2020-08-10T19:56:55.943000,iOS
+264,Foreground,Scan,7660,Male,2020-08-10T19:56:55.910000,iOS
+265,Foreground,Image Gallery,7660,Male,2020-08-10T19:56:47.907000,iOS
+266,Foreground,Scan,7660,Male,2020-08-10T19:56:47.873000,iOS
+267,Foreground,Image Gallery,7660,Male,2020-08-10T19:56:38.110000,iOS
+268,Foreground,Scan,7660,Male,2020-08-10T19:56:38.107000,iOS
+269,Concept,Click,2729,Not Specified,2020-08-10T19:52:43.627000,iOS
+270,Concept,Click,2729,Not Specified,2020-08-10T19:52:12.970000,iOS
+271,Concept,Scan,2729,Not Specified,2020-08-10T19:51:58.903000,iOS
+272,Cohesive,Scan,2729,Not Specified,2020-08-10T19:51:29.267000,iOS
+273,Cohesive,Scan,2729,Not Specified,2020-08-10T19:50:53.567000,iOS
+274,Focus Group,Switch to Fullscreen Video,2027,Female,2020-08-10T20:18:16.683000,iOS
+275,Focus Group,Scan,2027,Female,2020-08-10T20:17:56.567000,iOS
+276,Focus Group,Switch to Fullscreen Video,2027,Female,2020-08-10T20:17:32.147000,iOS
+277,Focus Group,Scan,2027,Female,2020-08-10T20:17:13.510000,iOS
+278,Scalable,Click,9555,Female,2020-08-10T20:59:22.983000,iOS
+279,Scalable,Scan,9555,Female,2020-08-10T20:58:47.540000,iOS
+280,Focus Group,Switch to Fullscreen Video,1638,Female,2020-08-10T20:55:14.477000,iOS
+281,Focus Group,Switch to Fullscreen Video,1638,Female,2020-08-10T20:54:42.137000,iOS
+282,Focus Group,Scan,1638,Female,2020-08-10T20:54:18.220000,iOS
+283,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T22:17:01.503000,iOS
+284,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T22:16:10.817000,iOS
+285,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T22:14:50.400000,iOS
+286,Focus Group,Scan,7212,Male,2020-08-10T22:14:27.687000,iOS
+287,Focus Group,Scan,7212,Male,2020-08-10T22:13:57.187000,iOS
+288,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T22:29:18.063000,iOS
+289,Focus Group,Scan,7212,Male,2020-08-10T22:28:59.590000,iOS
+290,Focus Group,Scan,7212,Male,2020-08-10T22:28:39.237000,iOS
+291,Focus Group,Scan,7212,Male,2020-08-10T22:28:19.910000,iOS
+292,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T22:22:57.790000,iOS
+293,Focus Group,Scan,7212,Male,2020-08-10T22:22:38.863000,iOS
+294,Focus Group,Switch to Fullscreen Video,6796,Female,2020-08-10T22:47:39.010000,iOS
+295,Focus Group,Switch to Fullscreen Video,6796,Female,2020-08-10T22:46:50.400000,iOS
+296,Focus Group,Switch to Fullscreen Video,6796,Female,2020-08-10T22:46:17.720000,iOS
+297,Focus Group,Scan,6796,Female,2020-08-10T22:45:57.100000,iOS
+298,Focus Group,Switch to Fullscreen Video,2258,Female,2020-08-10T22:43:56.210000,iOS
+299,Focus Group,Scan,2258,Female,2020-08-10T22:43:39.190000,iOS
+300,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T23:17:00.220000,iOS
+301,Focus Group,Switch to Fullscreen Video,7212,Male,2020-08-10T23:16:29.663000,iOS
+302,Focus Group,Scan,7212,Male,2020-08-10T23:16:10.047000,iOS
+303,Focus Group,Switch to Fullscreen Video,5415,Female,2020-08-10T23:14:35.490000,iOS
+304,Focus Group,Scan,5415,Female,2020-08-10T23:14:27.783000,iOS
+305,Focus Group,Switch to Fullscreen Video,5573,Female,2020-08-11T00:08:58.947000,iOS
+306,Focus Group,Scan,5573,Female,2020-08-11T00:08:35.600000,iOS
+307,Focus Group,Switch to Fullscreen Video,5573,Female,2020-08-11T00:11:30.430000,iOS
+308,Focus Group,Switch to Fullscreen Video,5573,Female,2020-08-11T00:11:16.673000,iOS
+309,Cloned,Image Gallery,4584,Male,2020-08-11T01:34:09.513000,Android
+310,Cloned,Scan,4584,Male,2020-08-11T01:34:09.247000,Android
+311,Extranet,Scan,493,Male,2020-08-11T02:00:01.963000,iOS
+312,Framework,Switch to Fullscreen Video,493,Male,2020-08-11T01:59:09.387000,iOS
+313,Framework,Scan,493,Male,2020-08-11T01:59:09.143000,iOS
+314,Focus Group,Loved,9006,Male,2020-08-11T01:56:35.593000,iOS
+315,Cloned,Image Gallery,493,Male,2020-08-11T02:00:43.820000,iOS
+316,Cloned,Scan,493,Male,2020-08-11T02:00:43.670000,iOS
+317,Focus Group,Switch to Fullscreen Video,5237,Female,2020-08-11T07:57:30.607000,iOS
+318,Focus Group,Switch to Fullscreen Video,5237,Female,2020-08-11T07:57:22.650000,iOS
+319,Focus Group,Scan,5237,Female,2020-08-11T07:57:01.270000,iOS
+320,Fully-Configurable,Scan,8910,Female,2020-08-11T08:05:01.777000,iOS
+321,Fully-Configurable,Scan,8910,Female,2020-08-11T08:04:51.307000,iOS
+322,Fully-Configurable,Scan,8910,Female,2020-08-11T08:04:41.810000,iOS
+323,Fully-Configurable,Scan,8910,Female,2020-08-11T08:04:07.860000,iOS
+324,Fully-Configurable,Scan,8910,Female,2020-08-11T08:03:52.133000,iOS
+325,Fully-Configurable,Scan,8910,Female,2020-08-11T08:03:42.463000,iOS
+326,Fully-Configurable,Scan,8910,Female,2020-08-11T08:03:18.730000,iOS
+327,Fully-Configurable,Scan,8910,Female,2020-08-11T08:03:09.160000,iOS
+328,Fully-Configurable,Scan,8910,Female,2020-08-11T08:02:45.250000,iOS
+329,Future-Proofed,Click,9344,Male,2020-08-11T11:50:11.910000,iOS
+330,Future-Proofed,Scan,9344,Male,2020-08-11T11:50:03.983000,iOS
+331,Future-Proofed,Click,9344,Male,2020-08-11T11:51:33.243000,iOS
+332,Future-Proofed,Scan,9344,Male,2020-08-11T11:51:23.970000,iOS
+333,Bottom-Line,Switch to Fullscreen Video,8407,Male,2020-08-11T13:30:29.823000,iOS
+334,Bottom-Line,Loved,8407,Male,2020-08-11T13:30:12.800000,iOS
+335,Customizable,Switch to Fullscreen Video,8407,Male,2020-08-11T13:28:34.113000,iOS
+336,Customizable,Loved,8407,Male,2020-08-11T13:28:34.083000,iOS
+337,Bottom-Line,Click,8407,Male,2020-08-11T13:25:00.343000,iOS
+338,Bottom-Line,Hub,8407,Male,2020-08-11T13:24:33.980000,iOS
+339,Focus Group,Switch to Fullscreen Video,9931,Female,2020-08-11T13:32:22.970000,iOS
+340,Focus Group,Scan,9931,Female,2020-08-11T13:31:59.127000,iOS
+341,Advanced,Scan,2614,Male,2020-08-11T14:37:12.143000,iOS
+342,Core,Click,3367,Female,2020-08-11T15:06:05.100000,Android
+343,Core,Scan,3367,Female,2020-08-11T15:05:30.703000,Android
+344,Future-Proofed,Click,3367,Female,2020-08-11T15:04:06.043000,Android
+345,Future-Proofed,Scan,3367,Female,2020-08-11T15:03:21.553000,Android
+346,National,Switch to Fullscreen Video,1667,Female,2020-08-11T15:45:46.407000,iOS
+347,National,Scan,1667,Female,2020-08-11T15:45:46.067000,iOS
+348,Implementation,Image Gallery,4361,Female,2020-08-11T16:09:09.083000,iOS
+349,Implementation,Scan,4361,Female,2020-08-11T16:09:09.070000,iOS
+350,Implementation,Image Gallery,4361,Female,2020-08-11T16:08:51.957000,iOS
+351,Implementation,Scan,4361,Female,2020-08-11T16:08:51.823000,iOS
+352,Implementation,Image Gallery,4361,Female,2020-08-11T16:08:32.957000,iOS
+353,Implementation,Scan,4361,Female,2020-08-11T16:08:32.857000,iOS
+354,Synergized,Scan,4361,Female,2020-08-11T16:07:33.533000,iOS
+355,Analyzing,Switch to Fullscreen Video,4361,Female,2020-08-11T16:07:07.747000,iOS
+356,Analyzing,Scan,4361,Female,2020-08-11T16:07:00.310000,iOS
+357,Focus Group,Switch to Fullscreen Video,2382,Female,2020-08-11T16:27:01.693000,iOS
+358,Focus Group,Scan,2382,Female,2020-08-11T16:26:34.893000,iOS
+359,Exclusive,Switch to Fullscreen Video,3813,Male,2020-08-11T18:44:54.910000,iOS
+360,Exclusive,Scan,3813,Male,2020-08-11T18:44:54.760000,iOS
+361,Open-Source,Click,4404,Male,2020-08-11T18:44:47.967000,Android
+362,Open-Source,Scan,4404,Male,2020-08-11T18:44:46.960000,Android
+363,Open-Source,Click,4404,Male,2020-08-11T18:44:16.403000,Android
+364,Open-Source,Scan,4404,Male,2020-08-11T18:44:16.363000,Android
+365,Synergy,Switch to Fullscreen Video,3813,Male,2020-08-11T18:43:54.793000,iOS
+366,Synergy,Switch to Fullscreen Video,3813,Male,2020-08-11T18:43:14.160000,iOS
+367,Synergy,Scan,3813,Male,2020-08-11T18:43:13.893000,iOS
+368,Synergy,Switch to Fullscreen Video,4404,Male,2020-08-11T18:42:32.430000,Android
+369,Synergy,Scan,4404,Male,2020-08-11T18:42:31.850000,Android
+370,Multi-Channelled,Scan,1806,Not Specified,2020-08-11T19:00:34.040000,iOS
+371,Multi-Channelled,Scan,1806,Not Specified,2020-08-11T19:00:07.597000,iOS
+372,Migration,Scan,4404,Male,2020-08-11T19:00:06.773000,Android
+373,Multi-Channelled,Scan,1806,Not Specified,2020-08-11T18:59:35.663000,iOS
+374,Multi-Channelled,Scan,1806,Not Specified,2020-08-11T19:01:04.073000,iOS
+375,Multi-Channelled,Scan,1806,Not Specified,2020-08-11T19:00:50.743000,iOS
+376,Focus Group,Switch to Fullscreen Video,2005,Female,2020-08-11T19:26:08.580000,iOS
+377,Focus Group,Scan,2005,Female,2020-08-11T19:25:47.233000,iOS
+378,Extended,Other,1778,Male,2020-08-11T20:08:09.947000,Android
+379,Extended,Scan,1778,Male,2020-08-11T20:08:05.037000,Android
+380,Extended,Scan,1778,Male,2020-08-11T20:07:59.317000,Android
+381,Extended,Scan,1778,Male,2020-08-11T20:07:52.710000,Android
+382,Managed,Scan,1778,Male,2020-08-11T20:07:21.873000,Android
+383,Managed,Image Gallery,1778,Male,2020-08-11T20:07:21.800000,Android
+384,Managed,Image Gallery,1778,Male,2020-08-11T20:07:17.547000,Android
+385,Managed,Scan,1778,Male,2020-08-11T20:07:17.393000,Android
+386,Bottom-Line,Switch to Fullscreen Video,3470,Male,2020-08-11T20:14:51.300000,iOS
+387,Bottom-Line,Hub,3470,Male,2020-08-11T20:14:06.273000,iOS
+388,Focus Group,Switch to Fullscreen Video,1304,Female,2020-08-11T22:04:50.790000,iOS
+389,Focus Group,Switch to Fullscreen Video,1304,Female,2020-08-11T22:04:44.207000,iOS
+390,Focus Group,Switch to Fullscreen Video,1304,Female,2020-08-11T22:04:31.673000,iOS
+391,Focus Group,Scan,1304,Female,2020-08-11T22:04:00.967000,iOS
+392,Focus Group,Switch to Fullscreen Video,7788,Not Specified,2020-08-11T23:42:37.857000,iOS
+393,Focus Group,Switch to Fullscreen Video,7788,Not Specified,2020-08-12T00:00:15.837000,iOS
+394,Focus Group,Switch to Fullscreen Video,7788,Not Specified,2020-08-12T00:00:05.687000,iOS
+395,Optimized,Scan,6686,Not Specified,2020-08-12T06:50:15.803000,iOS
+396,Optimized,Scan,6686,Not Specified,2020-08-12T06:49:51.813000,iOS
+397,Optimized,Scan,6686,Not Specified,2020-08-12T06:48:51.090000,iOS
+398,Scalable,Scan,6686,Not Specified,2020-08-12T06:51:56.150000,iOS
+399,Fully-Configurable,Scan,6686,Not Specified,2020-08-12T07:02:03.920000,iOS
+400,Cohesive,Scan,6686,Not Specified,2020-08-12T07:00:50.080000,iOS
+401,Vision-Oriented,Scan,3617,Male,2020-08-12T11:04:50.203000,Android
+402,Programmable,Scan,3617,Male,2020-08-12T11:04:41.687000,Android
+403,Workforce,Scan,3617,Male,2020-08-12T11:04:33.073000,Android
+404,Organized,Scan,3617,Male,2020-08-12T11:04:15.337000,Android
+405,Non-Volatile,Scan,3617,Male,2020-08-12T11:03:32.530000,Android
+406,Reduced,Click,3617,Male,2020-08-12T11:02:58.233000,Android
+407,Reduced,Scan,3617,Male,2020-08-12T11:02:25.983000,Android
+408,Scalable,Switch to Fullscreen Video,858,Female,2020-08-12T11:29:20.027000,iOS
+409,Scalable,Switch to Fullscreen Video,858,Female,2020-08-12T11:28:27.883000,iOS
+410,Scalable,Scan,858,Female,2020-08-12T11:28:02.880000,iOS
+411,Bottom-Line,Click,565,Male,2020-08-12T11:45:55.220000,iOS
+412,24 Hour,Click,1705,Male,2020-08-12T11:45:32.200000,iOS
+413,24 Hour,Scan,1705,Male,2020-08-12T11:44:58.113000,iOS
+414,Bottom-Line,Hub,565,Male,2020-08-12T11:44:54.397000,iOS
+415,Future-Proofed,Click,1705,Male,2020-08-12T11:44:14.587000,iOS
+416,Future-Proofed,Scan,1705,Male,2020-08-12T11:43:58.553000,iOS
+417,Advanced,Scan,1705,Male,2020-08-12T11:43:04.010000,iOS
+418,Advanced,Click,6985,Not Specified,2020-08-12T12:05:11.587000,iOS
+419,Advanced,Scan,6985,Not Specified,2020-08-12T12:04:52.643000,iOS
+420,Utilisation,Scan,6352,Not Specified,2020-08-12T13:00:34.687000,iOS
+421,Optimized,Scan,6352,Not Specified,2020-08-12T12:56:57.957000,iOS
+422,Versatile,Click,6352,Not Specified,2020-08-12T12:56:07.297000,iOS
+423,Versatile,Scan,6352,Not Specified,2020-08-12T12:55:38.873000,iOS
+424,Optimized,Image Gallery,6352,Not Specified,2020-08-12T13:02:49.747000,iOS
+425,Optimized,Switch to Fullscreen Video,6352,Not Specified,2020-08-12T13:02:22.697000,iOS
+426,Optimized,Scan,6352,Not Specified,2020-08-12T13:01:15.070000,iOS
+427,Core,Click,1979,Female,2020-08-12T13:16:37.250000,iOS
+428,Core,Scan,1979,Female,2020-08-12T13:16:07.177000,iOS
+429,Advanced,Click,1979,Female,2020-08-12T13:15:21.450000,iOS
+430,Advanced,Scan,1979,Female,2020-08-12T13:14:50.983000,iOS
+431,Advanced,Scan,1979,Female,2020-08-12T13:14:38.440000,iOS
+432,Focus Group,Switch to Fullscreen Video,584,Female,2020-08-12T15:39:01.060000,Android
+433,Focus Group,Scan,584,Female,2020-08-12T15:38:29.420000,Android
+434,Future-Proofed,Click,3617,Male,2020-08-12T16:17:31.700000,Android
+435,Future-Proofed,Scan,3617,Male,2020-08-12T16:15:13.773000,Android
+436,Advanced,Click,9167,Female,2020-08-12T17:08:44.250000,iOS
+437,Advanced,Click,9167,Female,2020-08-12T17:08:18.550000,iOS
+438,Advanced,Scan,9167,Female,2020-08-12T17:07:53.683000,iOS
+439,24 Hour,Click,9167,Female,2020-08-12T17:07:17.163000,iOS
+440,24 Hour,Scan,9167,Female,2020-08-12T17:06:55.707000,iOS
+441,24 Hour,Click,9167,Female,2020-08-12T17:19:36.230000,iOS
+442,24 Hour,Scan,9167,Female,2020-08-12T17:19:06.250000,iOS
+443,Advanced,Click,9167,Female,2020-08-12T17:18:51.740000,iOS
+444,Advanced,Scan,9167,Female,2020-08-12T17:18:28.827000,iOS
+445,Focus Group,Switch to Fullscreen Video,6558,Female,2020-08-12T17:57:19.930000,Android
+446,Focus Group,Scan,6558,Female,2020-08-12T17:57:16.713000,Android
+447,Focus Group,Switch to Fullscreen Video,6558,Female,2020-08-12T17:55:04.897000,Android
+448,Focus Group,Switch to Fullscreen Video,6558,Female,2020-08-12T17:53:58.353000,Android
+449,Focus Group,Scan,6558,Female,2020-08-12T17:53:51.200000,Android
+450,Cohesive,Switch to Fullscreen Video,8899,Male,2020-08-12T19:02:44.930000,iOS
+451,Cohesive,Scan,8899,Male,2020-08-12T19:02:43.417000,iOS
+452,Benchmark,Switch to Fullscreen Video,8899,Male,2020-08-12T19:02:29.603000,iOS
+453,Benchmark,Scan,8899,Male,2020-08-12T19:02:27.447000,iOS
+454,Benchmark,Scan,8899,Male,2020-08-12T19:02:10.997000,iOS
+455,Benchmark,Switch to Fullscreen Video,8899,Male,2020-08-12T19:01:50.087000,iOS
+456,Benchmark,Switch to Fullscreen Video,8899,Male,2020-08-12T19:01:39.440000,iOS
+457,Benchmark,Scan,8899,Male,2020-08-12T19:01:35.887000,iOS
+458,Benchmark,Scan,8899,Male,2020-08-12T19:01:16.360000,iOS
+459,Function,Other,1778,Male,2020-08-12T19:27:43.957000,Android
+460,Function,Scan,1778,Male,2020-08-12T19:27:36.010000,Android
+461,Function,Scan,1778,Male,2020-08-12T19:27:29.677000,Android
+462,Concept,Other,1823,Male,2020-08-12T19:47:12.127000,Android
+463,Concept,Scan,1823,Male,2020-08-12T19:44:29.860000,Android
+464,Concept,Scan,1823,Male,2020-08-12T19:42:13.003000,Android
+465,Focus Group,Switch to Fullscreen Video,1530,Female,2020-08-12T20:49:00.343000,iOS
+466,Analyzer,Scan,1108,Male,2020-08-12T20:48:55.110000,iOS
+467,Focus Group,Scan,1530,Female,2020-08-12T20:48:40.890000,iOS
+468,Focus Group,Scan,1530,Female,2020-08-12T20:48:18.920000,iOS
+469,Benchmark,Scan,1108,Male,2020-08-12T20:48:16.637000,iOS
+470,Benchmark,Click,1108,Male,2020-08-12T20:48:00.037000,iOS
+471,Benchmark,Scan,1108,Male,2020-08-12T20:47:51.370000,iOS
+472,Focus Group,Scan,1530,Female,2020-08-12T20:47:45.887000,iOS
+473,Benchmark,Click,1108,Male,2020-08-12T20:47:30.287000,iOS
+474,Benchmark,Switch to Fullscreen Video,1108,Male,2020-08-12T20:47:23.063000,iOS
+475,Benchmark,Scan,1108,Male,2020-08-12T20:47:17.850000,iOS
+476,Optimized,Scan,1108,Male,2020-08-12T20:46:38.193000,iOS
+477,Matrix,Click,7828,Female,2020-08-12T20:53:15.250000,iOS
+478,Matrix,Scan,7828,Female,2020-08-12T20:53:01.260000,iOS
+479,Focus Group,Scan,6780,Female,2020-08-12T21:01:08.097000,iOS
+480,Focus Group,Switch to Fullscreen Video,1685,Female,2020-08-12T21:59:45.610000,iOS
+481,Focus Group,Switch to Fullscreen Video,1685,Female,2020-08-12T21:59:28.897000,iOS
+482,Focus Group,Scan,1685,Female,2020-08-12T21:59:09.850000,iOS
+483,Focus Group,Switch to Fullscreen Video,1568,Female,2020-08-12T22:16:04.473000,iOS
+484,Focus Group,Switch to Fullscreen Video,1568,Female,2020-08-12T22:13:21.330000,iOS
+485,Focus Group,Scan,1568,Female,2020-08-12T22:13:04.830000,iOS
+486,Future-Proofed,Scan,3617,Male,2020-08-12T23:57:53.153000,Android
+487,Future-Proofed,Click,3617,Male,2020-08-13T00:04:46.823000,Android
+488,Future-Proofed,Click,3617,Male,2020-08-13T00:13:49.667000,Android
+489,Future-Proofed,Scan,3617,Male,2020-08-13T00:12:35.210000,Android
+490,Focus Group,Click,7896,Not Specified,2020-08-13T02:00:15.963000,iOS
+491,Focus Group,Scan,7896,Not Specified,2020-08-13T02:00:07.180000,iOS
+492,Focus Group,Switch to Fullscreen Video,7896,Not Specified,2020-08-13T02:04:19.890000,iOS
+493,Focus Group,Switch to Fullscreen Video,7896,Not Specified,2020-08-13T02:03:07.303000,iOS
+494,Focus Group,Switch to Fullscreen Video,7896,Not Specified,2020-08-13T02:00:51.573000,iOS
+495,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:49:42.633000,iOS
+496,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:49:23.447000,iOS
+497,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:49:06.177000,iOS
+498,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:47:32.653000,iOS
+499,Scalable,Scan,9431,Female,2020-08-13T07:47:30.790000,iOS
+500,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:51:23.753000,iOS
+501,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:51:12.330000,iOS
+502,Scalable,Switch to Fullscreen Video,9431,Female,2020-08-13T07:50:48.503000,iOS
+503,Focus Group,Switch to Fullscreen Video,5639,Female,2020-08-13T09:12:02.443000,iOS
+504,Focus Group,Scan,5639,Female,2020-08-13T09:11:42.643000,iOS
+505,Focus Group,Scan,9931,Female,2020-08-13T09:37:49.667000,iOS
+506,Bottom-Line,Click,2758,Female,2020-08-13T10:29:43.540000,iOS
+507,Bottom-Line,Hub,2758,Female,2020-08-13T10:29:35.087000,iOS
+508,Bottom-Line,Click,2758,Female,2020-08-13T10:31:56.067000,iOS
+509,Bottom-Line,Switch to Fullscreen Video,2758,Female,2020-08-13T10:30:56.367000,iOS
+510,Scalable,Click,5641,Not Specified,2020-08-13T11:07:49.397000,Android
+511,Scalable,Scan,5641,Not Specified,2020-08-13T11:07:26.073000,Android
+512,Focus Group,Scan,2027,Female,2020-08-13T11:18:10.290000,iOS
+513,Focus Group,Scan,277,Female,2020-08-13T11:17:08.637000,iOS
+514,Focus Group,Scan,277,Female,2020-08-13T11:17:00.357000,iOS
+515,Benchmark,Scan,5641,Not Specified,2020-08-13T11:13:01.143000,Android
+516,Scalable,Scan,5641,Not Specified,2020-08-13T11:12:39.510000,Android
+517,Middleware,Switch to Fullscreen Video,125,Male,2020-08-13T11:55:06.513000,iOS
+518,Middleware,Scan,125,Male,2020-08-13T11:55:06.457000,iOS
+519,Attitude,Switch to Fullscreen Video,125,Male,2020-08-13T11:52:49.287000,iOS
+520,Attitude,Scan,125,Male,2020-08-13T11:52:49.077000,iOS
+521,Future-Proofed,Click,9344,Male,2020-08-13T12:05:48.640000,iOS
+522,Future-Proofed,Scan,9344,Male,2020-08-13T12:05:43.927000,iOS
+523,Core,Click,9344,Male,2020-08-13T12:05:21.740000,iOS
+524,Core,Scan,9344,Male,2020-08-13T12:05:02.457000,iOS
+525,Attitude,Switch to Fullscreen Video,125,Male,2020-08-13T12:25:35.253000,iOS
+526,Attitude,Loved,125,Male,2020-08-13T12:25:35.163000,iOS
+527,Attitude,Switch to Fullscreen Video,125,Male,2020-08-13T12:24:45.250000,iOS
+528,Attitude,Loved,125,Male,2020-08-13T12:24:45.173000,iOS
+529,Future-Proofed,Click,3340,Female,2020-08-13T13:10:10.633000,iOS
+530,Future-Proofed,Click,3340,Female,2020-08-13T13:09:33.790000,iOS
+531,Future-Proofed,Click,3340,Female,2020-08-13T13:09:20.763000,iOS
+532,Future-Proofed,Scan,3340,Female,2020-08-13T13:09:11.650000,iOS
+533,Advanced,Scan,3340,Female,2020-08-13T13:10:47.810000,iOS
+534,Future-Proofed,Click,834,Not Specified,2020-08-13T14:32:42.557000,Android
+535,Future-Proofed,Scan,834,Not Specified,2020-08-13T14:32:25.950000,Android
+536,Future-Proofed,Click,5888,Female,2020-08-13T14:46:57.763000,iOS
+537,Future-Proofed,Scan,5888,Female,2020-08-13T14:46:31.917000,iOS
+538,Profound,Scan,1544,Male,2020-08-13T15:46:37.820000,iOS
+539,Cohesive,Scan,1544,Male,2020-08-13T15:46:04.977000,iOS
+540,Cohesive,Scan,1544,Male,2020-08-13T15:45:13.073000,iOS
+541,Advanced,Scan,2614,Male,2020-08-13T15:59:36.573000,iOS
+542,Analyzing,Scan,4341,Male,2020-08-13T17:10:15.563000,iOS
+543,Cloned,Scan,4341,Male,2020-08-13T17:09:09.660000,iOS
+544,Radical,Scan,4341,Male,2020-08-13T17:11:59.963000,iOS
+545,Radical,Switch to Fullscreen Video,4341,Male,2020-08-13T17:11:59.950000,iOS
+546,Virtual,Scan,5165,Not Specified,2020-08-13T17:40:02.527000,iOS
+547,Virtual,Scan,5165,Not Specified,2020-08-13T17:39:22.547000,iOS
+548,Optimized,Scan,5165,Not Specified,2020-08-13T17:37:52.197000,iOS
+549,Analyzer,Scan,5165,Not Specified,2020-08-13T17:37:41.193000,iOS
+550,Hardware,Scan,5165,Not Specified,2020-08-13T17:37:31.077000,iOS
+551,Optimized,Scan,5165,Not Specified,2020-08-13T17:36:20.907000,iOS
+552,Benchmark,Scan,5165,Not Specified,2020-08-13T17:35:54.230000,iOS
+553,Optimized,Image Gallery,5165,Not Specified,2020-08-13T17:35:02.490000,iOS
+554,Optimized,Click,5165,Not Specified,2020-08-13T17:34:40.340000,iOS
+555,Optimized,Scan,5165,Not Specified,2020-08-13T17:33:30.263000,iOS
+556,Optimized,Loved,5165,Not Specified,2020-08-13T17:50:34.123000,iOS
+557,6Th Generation,Scan,5165,Not Specified,2020-08-13T17:50:16.227000,iOS
+558,Multi-Channelled,Scan,5165,Not Specified,2020-08-13T17:49:11.983000,iOS
+559,Virtual,Scan,5165,Not Specified,2020-08-13T17:47:37.870000,iOS
+560,Analyzing,Scan,5165,Not Specified,2020-08-13T17:47:22.763000,iOS
+561,Analyzing,Scan,5165,Not Specified,2020-08-13T17:46:50.743000,iOS
+562,Virtual,Scan,5165,Not Specified,2020-08-13T17:45:37.773000,iOS
+563,Virtual,Loved,5165,Not Specified,2020-08-13T17:44:11.350000,iOS
+564,Virtual,Scan,5165,Not Specified,2020-08-13T17:44:02.510000,iOS
+565,Virtual,Scan,5165,Not Specified,2020-08-13T17:43:52.680000,iOS
+566,Virtual,Scan,5165,Not Specified,2020-08-13T17:42:39.387000,iOS
+567,Optimized,Scan,5165,Not Specified,2020-08-13T17:42:20.167000,iOS
+568,Virtual,Scan,5165,Not Specified,2020-08-13T17:41:12.310000,iOS
+569,Virtual,Scan,5165,Not Specified,2020-08-13T17:40:46.430000,iOS
+570,Optimized,Scan,5165,Not Specified,2020-08-13T18:00:41.107000,iOS
+571,Optimized,Image Gallery,5165,Not Specified,2020-08-13T18:00:05.973000,iOS
+572,Optimized,Click,5165,Not Specified,2020-08-13T17:59:59.457000,iOS
+573,Optimized,Click,5165,Not Specified,2020-08-13T17:59:59.250000,iOS
+574,Optimized,Click,5165,Not Specified,2020-08-13T17:59:59.113000,iOS
+575,Optimized,Click,5165,Not Specified,2020-08-13T17:59:58.880000,iOS
+576,Optimized,Click,5165,Not Specified,2020-08-13T17:59:58.727000,iOS
+577,Optimized,Click,5165,Not Specified,2020-08-13T17:59:58.220000,iOS
+578,Optimized,Click,5165,Not Specified,2020-08-13T17:59:57.623000,iOS
+579,Optimized,Click,5165,Not Specified,2020-08-13T17:59:57.207000,iOS
+580,Optimized,Click,5165,Not Specified,2020-08-13T17:59:56.100000,iOS
+581,Optimized,Click,5165,Not Specified,2020-08-13T17:59:55.837000,iOS
+582,Optimized,Click,5165,Not Specified,2020-08-13T17:59:55.497000,iOS
+583,Optimized,Click,5165,Not Specified,2020-08-13T17:59:55.007000,iOS
+584,Optimized,Click,5165,Not Specified,2020-08-13T17:59:54.013000,iOS
+585,Optimized,Click,5165,Not Specified,2020-08-13T17:59:53.167000,iOS
+586,Optimized,Click,5165,Not Specified,2020-08-13T17:59:51.620000,iOS
+587,Optimized,Scan,5165,Not Specified,2020-08-13T17:58:48.470000,iOS
+588,6Th Generation,Scan,5165,Not Specified,2020-08-13T18:09:36.500000,iOS
+589,Virtual,Scan,5165,Not Specified,2020-08-13T18:08:33,iOS
+590,Optimized,Image Gallery,5165,Not Specified,2020-08-13T18:07:54.900000,iOS
+591,Optimized,Scan,5165,Not Specified,2020-08-13T18:05:08.537000,iOS
+592,Installation,Scan,5165,Not Specified,2020-08-13T18:04:30.913000,iOS
+593,Optimized,Scan,5165,Not Specified,2020-08-13T18:03:29.320000,iOS
+594,Optimized,Image Gallery,5165,Not Specified,2020-08-13T18:02:51.833000,iOS
+595,Optimized,Scan,5165,Not Specified,2020-08-13T18:02:26.153000,iOS
+596,Optimized,Image Gallery,5165,Not Specified,2020-08-13T18:01:55.593000,iOS
+597,Optimized,Scan,5165,Not Specified,2020-08-13T18:01:40.967000,iOS
+598,Optimized,Scan,5165,Not Specified,2020-08-13T18:01:20.003000,iOS
+599,Focus Group,Switch to Fullscreen Video,2627,Female,2020-08-13T18:44:14.633000,iOS
+600,Focus Group,Scan,2627,Female,2020-08-13T18:43:46.843000,iOS
+601,Knowledge Base,Click,3617,Male,2020-08-13T18:59:03.943000,Android
+602,Knowledge Base,Click,3617,Male,2020-08-13T18:58:48.110000,Android
+603,Knowledge Base,Click,3617,Male,2020-08-13T18:58:14.087000,Android
+604,Knowledge Base,Scan,3617,Male,2020-08-13T18:57:15.243000,Android
+605,Bottom-Line,Hub,2241,Male,2020-08-13T19:08:57.883000,iOS
+606,Scalable,Switch to Fullscreen Video,2241,Male,2020-08-13T19:08:01.810000,iOS
+607,Scalable,Switch to Fullscreen Video,2241,Male,2020-08-13T19:07:29.190000,iOS
+608,Scalable,Switch to Fullscreen Video,2241,Male,2020-08-13T19:06:29.683000,iOS
+609,Scalable,Scan,2241,Male,2020-08-13T19:06:09.777000,iOS
+610,Interface,Click,3617,Male,2020-08-13T19:13:28.620000,Android
+611,Interface,Click,3617,Male,2020-08-13T19:13:10.870000,Android
+612,Interface,Click,3617,Male,2020-08-13T19:12:54.817000,Android
+613,Interface,Scan,3617,Male,2020-08-13T19:12:40.883000,Android
+614,Content-Based,Scan,3617,Male,2020-08-13T19:12:22.120000,Android
+615,Project,Scan,3617,Male,2020-08-13T19:12:02.410000,Android
+616,Exclusive,Click,3617,Male,2020-08-13T19:11:36.533000,Android
+617,Exclusive,Scan,3617,Male,2020-08-13T19:11:23.057000,Android
+618,Open-Source,Click,3617,Male,2020-08-13T19:39:46.640000,Android
+619,Open-Source,Click,3617,Male,2020-08-13T19:39:35.447000,Android
+620,Open-Source,Click,3617,Male,2020-08-13T19:39:15.157000,Android
+621,Open-Source,Scan,3617,Male,2020-08-13T19:38:24.427000,Android
+622,Cohesive,Switch to Fullscreen Video,9431,Female,2020-08-13T19:49:17.023000,iOS
+623,Cohesive,Click,9431,Female,2020-08-13T19:48:40.730000,iOS
+624,Cohesive,Switch to Fullscreen Video,9431,Female,2020-08-13T19:47:26.880000,iOS
+625,Cohesive,Click,9431,Female,2020-08-13T19:46:49.887000,iOS
+626,Cohesive,Click,9431,Female,2020-08-13T19:46:36.153000,iOS
+627,Cohesive,Switch to Fullscreen Video,9431,Female,2020-08-13T19:46:00.710000,iOS
+628,Cohesive,Click,9431,Female,2020-08-13T19:45:45.983000,iOS
+629,Cohesive,Click,9431,Female,2020-08-13T19:45:43.070000,iOS
+630,Cohesive,Click,9431,Female,2020-08-13T19:45:39.557000,iOS
+631,Cohesive,Switch to Fullscreen Video,9431,Female,2020-08-13T19:45:25.333000,iOS
+632,Cohesive,Scan,9431,Female,2020-08-13T19:45:11.950000,iOS
+633,Orchestration,Click,3617,Male,2020-08-13T19:57:16.660000,Android
+634,Orchestration,Click,3617,Male,2020-08-13T19:56:41.903000,Android
+635,Orchestration,Scan,3617,Male,2020-08-13T19:56:35.503000,Android
+636,Neutral,Click,3617,Male,2020-08-13T19:55:09.563000,Android
+637,Neutral,Click,3617,Male,2020-08-13T19:54:54.187000,Android
+638,Neutral,Click,3617,Male,2020-08-13T19:54:31.597000,Android
+639,Neutral,Click,3617,Male,2020-08-13T19:53:50.600000,Android
+640,Neutral,Scan,3617,Male,2020-08-13T19:51:53.707000,Android
+641,Networked,Click,3617,Male,2020-08-13T20:18:34.360000,Android
+642,Networked,Click,3617,Male,2020-08-13T20:18:15.813000,Android
+643,Networked,Click,3617,Male,2020-08-13T20:18:09.983000,Android
+644,Networked,Click,3617,Male,2020-08-13T20:17:49.337000,Android
+645,Networked,Click,3617,Male,2020-08-13T20:17:29.077000,Android
+646,Networked,Scan,3617,Male,2020-08-13T20:17:01.623000,Android
+647,Triple-Buffered,Click,3617,Male,2020-08-13T20:28:10.487000,Android
+648,Triple-Buffered,Scan,3617,Male,2020-08-13T20:27:49.097000,Android
+649,Triple-Buffered,Scan,3617,Male,2020-08-13T20:27:40.640000,Android
+650,Capability,Scan,3617,Male,2020-08-13T20:27:29.223000,Android
+651,Triple-Buffered,Scan,3617,Male,2020-08-13T20:27:16.547000,Android
+652,Horizontal,Scan,3617,Male,2020-08-13T20:27:00.680000,Android
+653,Focus Group,Scan,2397,Not Specified,2020-08-13T20:23:35.450000,iOS
+654,Middleware,Scan,3617,Male,2020-08-13T21:29:17.947000,Android
+655,Middleware,Scan,3617,Male,2020-08-13T21:28:33.557000,Android
+656,Mobile,Scan,3617,Male,2020-08-13T21:27:32.357000,Android
+657,Bottom-Line,Scan,3617,Male,2020-08-13T21:21:12.370000,Android
+658,Next Generation,Scan,3617,Male,2020-08-13T21:39:36.490000,Android
+659,Pre-Emptive,Scan,3617,Male,2020-08-13T21:37:25.170000,Android
+660,Architecture,Scan,3617,Male,2020-08-13T21:32:00.443000,Android
+661,Focus Group,Scan,7233,Male,2020-08-13T21:50:40.347000,iOS
+662,Focus Group,Scan,7233,Male,2020-08-13T21:50:25.620000,iOS
+663,Focus Group,Click,7233,Male,2020-08-13T21:50:16.167000,iOS
+664,Focus Group,Scan,7233,Male,2020-08-13T21:50:12.130000,iOS
+665,Focus Group,Scan,7233,Male,2020-08-13T21:49:59.880000,iOS
+666,Focus Group,Scan,7233,Male,2020-08-13T21:49:53.570000,iOS
+667,Focus Group,Scan,7233,Male,2020-08-13T21:49:46.137000,iOS
+668,Focus Group,Switch to Fullscreen Video,3303,Female,2020-08-13T21:49:26.700000,iOS
+669,Focus Group,Scan,3303,Female,2020-08-13T21:49:06.563000,iOS
+670,Radical,Scan,3617,Male,2020-08-13T21:48:03.117000,Android
+671,Focus Group,Switch to Fullscreen Video,7233,Male,2020-08-13T21:46:42.420000,iOS
+672,Focus Group,Scan,7233,Male,2020-08-13T21:46:12.517000,iOS
+673,Focus Group,Switch to Fullscreen Video,3303,Female,2020-08-13T21:51:49.753000,iOS
+674,Focus Group,Switch to Fullscreen Video,7233,Male,2020-08-13T21:51:47.540000,iOS
+675,Focus Group,Switch to Fullscreen Video,7233,Male,2020-08-13T21:51:44.560000,iOS
+676,Focus Group,Switch to Fullscreen Video,7233,Male,2020-08-13T21:50:49.460000,iOS
+677,Radical,Scan,3617,Male,2020-08-13T22:02:04.160000,Android
+678,Executive,Scan,3617,Male,2020-08-13T22:13:58.263000,Android
+679,Scalable,Scan,3617,Male,2020-08-13T22:13:27.440000,Android
+680,Multi-Lateral,Click,5641,Not Specified,2020-08-14T08:48:25.897000,Android
+681,Multi-Lateral,Scan,5641,Not Specified,2020-08-14T08:48:09.083000,Android
+682,Non-Volatile,Scan,3617,Male,2020-08-14T08:59:45.097000,Android
+683,Uniform,Scan,3617,Male,2020-08-14T08:57:59.117000,Android
+684,Uniform,Scan,3617,Male,2020-08-14T08:57:07.143000,Android
+685,Uniform,Scan,3617,Male,2020-08-14T08:57:03.440000,Android
+686,Algorithm,Scan,3617,Male,2020-08-14T08:55:48.967000,Android
+687,Optimized,Scan,7462,Male,2020-08-14T09:06:56.303000,Android
+688,Synchronised,Scan,3617,Male,2020-08-14T09:06:17.057000,Android
+689,Eco-Centric,Scan,3617,Male,2020-08-14T09:06:12.933000,Android
+690,24 Hour,Scan,9344,Male,2020-08-14T09:06:11.537000,iOS
+691,Advanced,Scan,9344,Male,2020-08-14T09:05:42.580000,iOS
+692,Graphic Interface,Scan,3617,Male,2020-08-14T09:05:40.110000,Android
+693,Future-Proofed,Click,9344,Male,2020-08-14T09:04:00.187000,iOS
+694,Future-Proofed,Scan,9344,Male,2020-08-14T09:03:49.187000,iOS
+695,Structure,Scan,3617,Male,2020-08-14T09:29:59.657000,Android
+696,Secured Line,Scan,3617,Male,2020-08-14T09:29:28.513000,Android
+697,Advanced,Scan,1979,Female,2020-08-14T09:27:40.367000,iOS
+698,Future-Proofed,Click,1979,Female,2020-08-14T09:27:24.680000,iOS
+699,Future-Proofed,Click,1979,Female,2020-08-14T09:27:14.160000,iOS
+700,Future-Proofed,Scan,1979,Female,2020-08-14T09:26:34.197000,iOS
+701,Object-Based,Scan,3617,Male,2020-08-14T09:23:23.893000,Android
+702,6Th Generation,Scan,3617,Male,2020-08-14T09:22:42.083000,Android
+703,6Th Generation,Scan,3617,Male,2020-08-14T09:22:02.430000,Android
+704,Digitized,Scan,3617,Male,2020-08-14T09:21:08.440000,Android
+705,Advanced,Scan,51,Male,2020-08-14T09:40:00.620000,iOS
+706,Advanced,Scan,51,Male,2020-08-14T09:39:19.620000,iOS
+707,Core,Scan,51,Male,2020-08-14T09:39:04.093000,iOS
+708,Core,Click,51,Male,2020-08-14T09:38:30.783000,iOS
+709,Core,Scan,51,Male,2020-08-14T09:37:52.547000,iOS
+710,Circuit,Scan,3617,Male,2020-08-14T09:37:16.343000,Android
+711,Future-Proofed,Scan,51,Male,2020-08-14T09:37:00.293000,iOS
+712,Ability,Scan,3617,Male,2020-08-14T09:36:42.753000,Android
+713,Future-Proofed,Click,51,Male,2020-08-14T09:35:55.483000,iOS
+714,Future-Proofed,Scan,51,Male,2020-08-14T09:35:38.360000,iOS
+715,Clear-Thinking,Scan,3617,Male,2020-08-14T09:49:42.147000,Android
+716,Client-Server,Scan,3617,Male,2020-08-14T09:48:06.033000,Android
+717,Interface,Scan,3617,Male,2020-08-14T09:47:31.610000,Android
+718,Infrastructure,Scan,3617,Male,2020-08-14T09:45:52.210000,Android
+719,Secured Line,Scan,3617,Male,2020-08-14T10:00:39.733000,Android
+720,Executive,Click,3617,Male,2020-08-14T10:00:22.883000,Android
+721,Executive,Scan,3617,Male,2020-08-14T09:59:45.117000,Android
+722,Digitized,Scan,3617,Male,2020-08-14T09:59:31.110000,Android
+723,Pre-Emptive,Scan,3617,Male,2020-08-14T09:59:18.637000,Android
+724,Interface,Scan,3617,Male,2020-08-14T09:59:05.083000,Android
+725,Clear-Thinking,Scan,3617,Male,2020-08-14T09:58:47.223000,Android
+726,Networked,Scan,3617,Male,2020-08-14T09:58:38.203000,Android
+727,Client-Server,Scan,3617,Male,2020-08-14T09:58:27.327000,Android
+728,Next Generation,Scan,3617,Male,2020-08-14T09:58:14.493000,Android
+729,Context-Sensitive,Click,3617,Male,2020-08-14T09:57:46.073000,Android
+730,Context-Sensitive,Scan,3617,Male,2020-08-14T09:56:08.163000,Android
+731,Next Generation,Scan,3617,Male,2020-08-14T09:54:46.430000,Android
+732,Next Generation,Scan,3617,Male,2020-08-14T09:54:20.567000,Android
+733,Networked,Scan,3617,Male,2020-08-14T09:52:27.010000,Android
+734,Clear-Thinking,Click,3617,Male,2020-08-14T09:51:47.967000,Android
+735,Clear-Thinking,Scan,3617,Male,2020-08-14T09:51:18.590000,Android
+736,Future-Proofed,Other,834,Not Specified,2020-08-14T10:10:29.820000,Android
+737,Future-Proofed,Click,834,Not Specified,2020-08-14T10:09:34.480000,Android
+738,Algorithm,Click,4968,Not Specified,2020-08-14T10:06:43.087000,iOS
+739,Algorithm,Scan,4968,Not Specified,2020-08-14T10:06:32.320000,iOS
+740,Non-Volatile,Scan,4968,Not Specified,2020-08-14T10:06:17.303000,iOS
+741,Focus Group,Switch to Fullscreen Video,584,Female,2020-08-14T10:02:44.223000,Android
+742,Graphic Interface,Scan,3617,Male,2020-08-14T10:02:38.130000,Android
+743,Focus Group,Scan,584,Female,2020-08-14T10:02:25.710000,Android
+744,Context-Sensitive,Scan,3617,Male,2020-08-14T10:02:25.703000,Android
+745,Middleware,Scan,3617,Male,2020-08-14T10:02:14.813000,Android
+746,Radical,Scan,3617,Male,2020-08-14T10:02:03.020000,Android
+747,6Th Generation,Scan,3617,Male,2020-08-14T10:01:48.497000,Android
+748,Infrastructure,Scan,3617,Male,2020-08-14T10:01:36.250000,Android
+749,Ability,Scan,3617,Male,2020-08-14T10:01:34.660000,Android
+750,Ability,Scan,3617,Male,2020-08-14T10:01:17.557000,Android
+751,Uniform,Scan,3617,Male,2020-08-14T10:01:16.613000,Android
+752,Uniform,Scan,3617,Male,2020-08-14T10:01:04.550000,Android
+753,Algorithm,Scan,3617,Male,2020-08-14T10:00:53.327000,Android
+754,Customer Loyalty,Scan,3617,Male,2020-08-14T10:40:33.747000,Android
+755,Customer Loyalty,Click,3617,Male,2020-08-14T10:39:40.040000,Android
+756,Customer Loyalty,Scan,3617,Male,2020-08-14T10:37:59.923000,Android
+757,Task-Force,Click,9431,Female,2020-08-14T10:48:22.057000,iOS
+758,Task-Force,Switch to Fullscreen Video,9431,Female,2020-08-14T10:46:09.143000,iOS
+759,Task-Force,Click,9431,Female,2020-08-14T10:45:05.637000,iOS
+760,Task-Force,Switch to Fullscreen Video,9431,Female,2020-08-14T10:44:05.597000,iOS
+761,Task-Force,Scan,9431,Female,2020-08-14T10:43:51.123000,iOS
+762,Optimized,Image Gallery,9431,Female,2020-08-14T10:42:51.270000,iOS
+763,Optimized,Scan,9431,Female,2020-08-14T10:42:37.027000,iOS
+764,Customer Loyalty,Click,3617,Male,2020-08-14T10:41:24.003000,Android
+765,Customer Loyalty,Click,3617,Male,2020-08-14T10:41:05.983000,Android
+766,Customer Loyalty,Click,3617,Male,2020-08-14T10:40:53.030000,Android
+767,Seamless,Click,3617,Male,2020-08-14T11:00:20.743000,Android
+768,Seamless,Click,3617,Male,2020-08-14T11:00:05.920000,Android
+769,Seamless,Click,3617,Male,2020-08-14T10:59:45.917000,Android
+770,Seamless,Click,3617,Male,2020-08-14T10:59:34.163000,Android
+771,Seamless,Click,3617,Male,2020-08-14T10:59:18.140000,Android
+772,Seamless,Scan,3617,Male,2020-08-14T10:58:53.163000,Android
+773,Cross-Group,Click,3617,Male,2020-08-14T10:58:15.600000,Android
+774,Cross-Group,Scan,3617,Male,2020-08-14T10:58:01.777000,Android
+775,Total,Scan,3617,Male,2020-08-14T10:57:45.523000,Android
+776,Expanded,Click,3617,Male,2020-08-14T11:02:46.103000,Android
+777,Expanded,Scan,3617,Male,2020-08-14T11:02:35.573000,Android
+778,Down-Sized,Click,3617,Male,2020-08-14T11:28:32.140000,Android
+779,Down-Sized,Click,3617,Male,2020-08-14T11:28:20.657000,Android
+780,Down-Sized,Click,3617,Male,2020-08-14T11:28:06.680000,Android
+781,Down-Sized,Click,3617,Male,2020-08-14T11:27:46.857000,Android
+782,Down-Sized,Scan,3617,Male,2020-08-14T11:26:33.720000,Android
+783,Down-Sized,Scan,3617,Male,2020-08-14T11:25:28.717000,Android
+784,Needs-Based,Click,3617,Male,2020-08-14T11:39:23.630000,Android
+785,Needs-Based,Scan,3617,Male,2020-08-14T11:39:16.873000,Android
+786,Even-Keeled,Scan,3617,Male,2020-08-14T11:38:56.140000,Android
+787,Archive,Click,3617,Male,2020-08-14T11:38:36.063000,Android
+788,Archive,Click,3617,Male,2020-08-14T11:38:10.840000,Android
+789,Archive,Scan,3617,Male,2020-08-14T11:37:55.893000,Android
+790,Focus Group,Switch to Fullscreen Video,4540,Female,2020-08-14T11:55:00.033000,iOS
+791,Focus Group,Switch to Fullscreen Video,4540,Female,2020-08-14T11:54:27.523000,iOS
+792,Focus Group,Scan,4540,Female,2020-08-14T11:54:12.030000,iOS
+793,Focus Group,Switch to Fullscreen Video,4540,Female,2020-08-14T11:53:47.913000,iOS
+794,Focus Group,Scan,4540,Female,2020-08-14T11:53:29.947000,iOS
+795,Advanced,Click,3340,Female,2020-08-14T12:07:42.920000,iOS
+796,Advanced,Scan,3340,Female,2020-08-14T12:07:34.627000,iOS
+797,Future-Proofed,Click,3340,Female,2020-08-14T12:07:16.510000,iOS
+798,Future-Proofed,Click,3340,Female,2020-08-14T12:07:07.900000,iOS
+799,Future-Proofed,Scan,3340,Female,2020-08-14T12:07:02.667000,iOS
+800,Adaptive,Scan,3086,Female,2020-08-14T12:29:10.527000,Android
+801,Adaptive,Scan,3086,Female,2020-08-14T12:28:41.980000,Android
+802,Concept,Scan,3086,Female,2020-08-14T12:28:19.010000,Android
+803,Concept,Scan,3086,Female,2020-08-14T12:27:14.417000,Android
+804,Solution-Oriented,Click,3617,Male,2020-08-14T12:23:19.690000,Android
+805,Solution-Oriented,Scan,3617,Male,2020-08-14T12:23:18.250000,Android
+806,Solution-Oriented,Click,3617,Male,2020-08-14T12:22:32.687000,Android
+807,Solution-Oriented,Scan,3617,Male,2020-08-14T12:22:26.670000,Android
+808,Solution-Oriented,Click,3617,Male,2020-08-14T12:21:14.370000,Android
+809,Solution-Oriented,Scan,3617,Male,2020-08-14T12:21:06.117000,Android
+810,Core,Click,3367,Female,2020-08-14T13:58:55.470000,Android
+811,Core,Scan,3367,Female,2020-08-14T13:58:28.133000,Android
+812,Future-Proofed,Click,3367,Female,2020-08-14T13:57:17.777000,Android
+813,Future-Proofed,Scan,3367,Female,2020-08-14T13:57:09.053000,Android
+814,Future-Proofed,Click,3340,Female,2020-08-14T14:31:48.747000,iOS
+815,Future-Proofed,Scan,3340,Female,2020-08-14T14:31:41.670000,iOS
+816,Advanced,Click,3340,Female,2020-08-14T14:31:15.243000,iOS
+817,Advanced,Scan,3340,Female,2020-08-14T14:31:04.450000,iOS
+818,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:30:34.820000,Android
+819,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:29:12.453000,Android
+820,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:28:33.017000,Android
+821,Focus Group,Scan,3617,Male,2020-08-14T15:24:00.360000,Android
+822,Advanced,Click,2614,Male,2020-08-14T15:39:11.790000,iOS
+823,Advanced,Scan,2614,Male,2020-08-14T15:38:45.363000,iOS
+824,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:32:47.687000,Android
+825,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:32:32.770000,Android
+826,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:31:18.483000,Android
+827,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:30:47.570000,Android
+828,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T15:42:47.507000,Android
+829,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T16:09:09.063000,Android
+830,Focus Group,Switch to Fullscreen Video,3617,Male,2020-08-14T16:08:35.133000,Android
+831,Focus Group,Scan,3617,Male,2020-08-14T16:06:41.900000,Android
+832,Expanded,Click,2848,Male,2020-08-14T16:52:28.460000,Android
+833,Expanded,Scan,2848,Male,2020-08-14T16:51:00.283000,Android
+834,Content-Based,Other,2848,Male,2020-08-14T17:05:19.727000,Android
+835,Content-Based,Scan,2848,Male,2020-08-14T17:03:14.593000,Android
+836,Open Architecture,Click,3617,Male,2020-08-14T17:29:40.790000,Android
+837,Open Architecture,Scan,3617,Male,2020-08-14T17:27:57.430000,Android
+838,Progressive,Scan,3617,Male,2020-08-14T17:39:16.563000,Android
+839,Asynchronous,Click,3617,Male,2020-08-14T17:37:35.883000,Android
+840,Asynchronous,Scan,3617,Male,2020-08-14T17:37:11.227000,Android
+841,Frame,Click,3617,Male,2020-08-14T17:35:53.480000,Android
+842,Frame,Scan,3617,Male,2020-08-14T17:35:48.763000,Android
+843,Frame,Scan,3617,Male,2020-08-14T17:35:19.717000,Android
+844,Asynchronous,Scan,3617,Male,2020-08-14T17:34:12.870000,Android
+845,Frame,Scan,3617,Male,2020-08-14T17:33:57.677000,Android
+846,Asynchronous,Scan,3617,Male,2020-08-14T17:33:42.780000,Android
+847,Open Architecture,Click,3617,Male,2020-08-14T17:31:24.873000,Android
+848,Open Architecture,Scan,3617,Male,2020-08-14T17:31:15.153000,Android
+849,Progressive,Scan,6340,Female,2020-08-14T18:01:49.573000,iOS
+850,Benchmark,Switch to Fullscreen Video,5247,Female,2020-08-14T19:05:26.130000,Android
+851,Benchmark,Scan,5247,Female,2020-08-14T19:05:19.983000,Android
+852,Benchmark,Scan,5247,Female,2020-08-14T19:04:40.867000,Android
+853,Scalable,Scan,5247,Female,2020-08-14T19:03:33.123000,Android
+854,Scalable,Click,5247,Female,2020-08-14T19:03:03.590000,Android
+855,Scalable,Scan,5247,Female,2020-08-14T19:02:38.327000,Android
+856,Focus Group,Switch to Fullscreen Video,5105,Female,2020-08-14T20:01:18.273000,iOS
+857,Focus Group,Scan,5105,Female,2020-08-14T20:01:12.353000,iOS
+858,Multi-Lateral,Scan,7382,Female,2020-08-14T20:48:24.277000,Android
+859,Optimized,Click,7382,Female,2020-08-14T20:47:48.090000,Android
+860,Optimized,Click,7382,Female,2020-08-14T20:47:47.133000,Android
+861,Optimized,Click,7382,Female,2020-08-14T20:47:46.587000,Android
+862,Optimized,Scan,7382,Female,2020-08-14T20:47:12.940000,Android
+863,Capacity,Switch to Fullscreen Video,4544,Female,2020-08-14T21:38:57.487000,iOS
+864,Capacity,Scan,4544,Female,2020-08-14T21:38:57.380000,iOS
+865,Focus Group,Switch to Fullscreen Video,5415,Female,2020-08-14T21:59:58.410000,iOS
+866,Focus Group,Scan,5415,Female,2020-08-14T21:59:46.980000,iOS
+867,Focus Group,Switch to Fullscreen Video,177,Male,2020-08-14T21:59:10.957000,iOS
+868,Focus Group,Scan,177,Male,2020-08-14T21:58:48.840000,iOS
+869,Focus Group,Switch to Fullscreen Video,1807,Female,2020-08-14T22:33:41.730000,iOS
+870,Focus Group,Switch to Fullscreen Video,1807,Female,2020-08-14T22:33:05.523000,iOS
+871,Focus Group,Switch to Fullscreen Video,1807,Female,2020-08-14T22:31:32.970000,iOS
+872,Focus Group,Switch to Fullscreen Video,1807,Female,2020-08-14T22:31:23.450000,iOS
+873,Focus Group,Scan,1807,Female,2020-08-14T22:31:03.383000,iOS
+874,Focus Group,Switch to Fullscreen Video,8370,Female,2020-08-15T09:22:57.113000,iOS
+875,Focus Group,Scan,8370,Female,2020-08-15T09:22:21.213000,iOS
+876,Focus Group,Switch to Fullscreen Video,3260,Female,2020-08-15T09:47:25.047000,iOS
+877,Focus Group,Switch to Fullscreen Video,3260,Female,2020-08-15T09:46:58.470000,iOS
+878,Focus Group,Scan,3260,Female,2020-08-15T09:46:38.550000,iOS
+879,Focus Group,Scan,3260,Female,2020-08-15T09:44:55.573000,iOS
+880,Clear-Thinking,Scan,1550,Female,2020-08-15T11:21:05.140000,Android
+881,Focus Group,Switch to Fullscreen Video,1260,Female,2020-08-15T11:59:17.507000,iOS
+882,Focus Group,Scan,1260,Female,2020-08-15T11:58:43.563000,iOS
+883,Advanced,Click,3367,Female,2020-08-15T12:14:45.070000,Android
+884,Advanced,Scan,3367,Female,2020-08-15T12:14:16.970000,Android
+885,Intangible,Other,8021,Not Specified,2020-08-15T13:06:48.470000,Android
+886,Neutral,Click,2216,Male,2020-08-15T13:05:31.390000,Android
+887,Intangible,Click,8021,Not Specified,2020-08-15T13:04:52.220000,Android
+888,Intangible,Scan,8021,Not Specified,2020-08-15T13:02:47.793000,Android
+889,Neutral,Click,2216,Male,2020-08-15T13:01:00.120000,Android
+890,Neutral,Scan,2216,Male,2020-08-15T13:00:52.300000,Android
+891,Focus Group,Switch to Fullscreen Video,1711,Male,2020-08-15T13:45:41,iOS
+892,Focus Group,Switch to Fullscreen Video,1711,Male,2020-08-15T13:45:38.140000,iOS
+893,Focus Group,Switch to Fullscreen Video,1711,Male,2020-08-15T13:45:23.430000,iOS
+894,Focus Group,Scan,1711,Male,2020-08-15T13:42:26.137000,iOS
+895,24 Hour,Click,5314,Male,2020-08-15T18:30:29.467000,iOS
+896,24 Hour,Scan,5314,Male,2020-08-15T18:29:52.420000,iOS
+897,Advanced,Click,5314,Male,2020-08-15T18:35:36.510000,iOS
+898,Advanced,Scan,5314,Male,2020-08-15T18:35:18.700000,iOS
+899,Future-Proofed,Click,5314,Male,2020-08-15T18:34:55.530000,iOS
+900,Future-Proofed,Scan,5314,Male,2020-08-15T18:34:36.790000,iOS
+901,Future-Proofed,Click,5314,Male,2020-08-15T18:33:00.830000,iOS
+902,Future-Proofed,Scan,5314,Male,2020-08-15T18:32:47.623000,iOS
+903,Core,Click,5314,Male,2020-08-15T18:31:59.390000,iOS
+904,Core,Scan,5314,Male,2020-08-15T18:31:51.880000,iOS
+905,Advanced,Scan,5314,Male,2020-08-15T18:30:47.630000,iOS
+906,Focus Group,Switch to Fullscreen Video,8428,Male,2020-08-15T19:10:58.733000,iOS
+907,Focus Group,Scan,8428,Male,2020-08-15T19:10:46.457000,iOS
+908,Focus Group,Loved,8382,Not Specified,2020-08-15T23:27:03.837000,iOS
+909,Focus Group,Switch to Fullscreen Video,8382,Not Specified,2020-08-15T23:26:20.477000,iOS
+910,Focus Group,Scan,8382,Not Specified,2020-08-15T23:26:08.290000,iOS
+911,Focus Group,Scan,8382,Not Specified,2020-08-15T23:25:32.737000,iOS
+912,Focus Group,Scan,8424,Female,2020-08-16T00:29:54.027000,iOS
+913,Focus Group,Switch to Fullscreen Video,8424,Female,2020-08-16T00:28:35.130000,iOS
+914,Focus Group,Scan,8424,Female,2020-08-16T00:28:24.680000,iOS
+915,Asynchronous,Click,7898,Male,2020-08-16T07:00:22.013000,iOS
+916,Asynchronous,Scan,7898,Male,2020-08-16T07:00:21.937000,iOS
+917,Asynchronous,Click,7898,Male,2020-08-16T06:59:40.153000,iOS
+918,Asynchronous,Scan,7898,Male,2020-08-16T06:59:39.970000,iOS
+919,Intermediate,Switch to Fullscreen Video,7898,Male,2020-08-16T07:09:09.483000,iOS
+920,Intermediate,Scan,7898,Male,2020-08-16T07:09:09.277000,iOS
+921,Sharable,Switch to Fullscreen Video,7898,Male,2020-08-16T07:05:46.257000,iOS
+922,Sharable,Scan,7898,Male,2020-08-16T07:05:46.160000,iOS
+923,Empowering,Click,7898,Male,2020-08-16T07:00:50.713000,iOS
+924,Empowering,Scan,7898,Male,2020-08-16T07:00:50.707000,iOS
+925,Graphic Interface,Click,7898,Male,2020-08-16T08:38:19.020000,iOS
+926,Graphic Interface,Scan,7898,Male,2020-08-16T08:37:56.620000,iOS
+927,Function,Switch to Fullscreen Video,7898,Male,2020-08-16T08:37:17.303000,iOS
+928,Function,Scan,7898,Male,2020-08-16T08:36:59.663000,iOS
+929,Forecast,Scan,7898,Male,2020-08-16T08:35:09.697000,iOS
+930,Forecast,Click,7898,Male,2020-08-16T08:35:09.653000,iOS
+931,Uniform,Scan,5115,Male,2020-08-16T09:30:28.843000,iOS
+932,Object-Based,Scan,5115,Male,2020-08-16T09:27:37.393000,iOS
+933,6Th Generation,Scan,5115,Male,2020-08-16T09:26:51.067000,iOS
+934,Clear-Thinking,Scan,5115,Male,2020-08-16T09:30:55.183000,iOS
+935,Bottom-Line,Hub,5669,Male,2020-08-16T12:13:39.233000,iOS
+936,Networked,Click,3939,Male,2020-08-16T16:19:33.147000,iOS
+937,Networked,Scan,3939,Male,2020-08-16T16:19:20.253000,iOS
+938,Focus Group,Switch to Fullscreen Video,9405,Not Specified,2020-08-16T20:37:37.610000,iOS
+939,Focus Group,Scan,9405,Not Specified,2020-08-16T20:36:54.900000,iOS
+940,Focus Group,Switch to Fullscreen Video,7077,Female,2020-08-16T21:53:59.097000,iOS
+941,Focus Group,Switch to Fullscreen Video,7077,Female,2020-08-16T21:51:38.900000,iOS
+942,Focus Group,Scan,7077,Female,2020-08-16T21:51:21.010000,iOS
+943,Bottom-Line,Hub,6636,Male,2020-08-16T21:51:10.963000,iOS
+944,Focus Group,Switch to Fullscreen Video,2190,Male,2020-08-16T22:54:52.780000,iOS
+945,Focus Group,Switch to Fullscreen Video,2190,Male,2020-08-16T22:54:10.860000,iOS
+946,Focus Group,Scan,2190,Male,2020-08-16T22:53:43.387000,iOS
+947,Optimized,Scan,974,Male,2020-08-17T10:05:04.820000,iOS
+948,Optimized,Scan,4270,Male,2020-08-17T10:56:57.860000,Android
+949,Focus Group,Switch to Fullscreen Video,5641,Female,2020-08-17T12:49:50.110000,iOS
+950,Focus Group,Scan,5641,Female,2020-08-17T12:49:27.833000,iOS
+951,Solution-Oriented,Scan,89,Male,2020-08-17T13:00:02.327000,Android
+952,Focus Group,Switch to Fullscreen Video,5641,Female,2020-08-17T12:51:12.880000,iOS
+953,Focus Group,Switch to Fullscreen Video,8640,Not Specified,2020-08-17T13:19:20.807000,iOS
+954,Focus Group,Scan,8640,Not Specified,2020-08-17T13:19:14.020000,iOS
+955,Focus Group,Switch to Fullscreen Video,8640,Not Specified,2020-08-17T13:25:49.527000,iOS
+956,Solution-Oriented,Scan,89,Male,2020-08-17T14:00:17.143000,Android
+957,Solution-Oriented,Click,89,Male,2020-08-17T13:57:20.563000,Android
+958,Solution-Oriented,Scan,89,Male,2020-08-17T13:56:19.410000,Android
+959,Core,Click,2624,Not Specified,2020-08-17T13:55:42.360000,iOS
+960,Core,Scan,2624,Not Specified,2020-08-17T13:55:33.857000,iOS
+961,Future-Proofed,Click,2624,Not Specified,2020-08-17T13:55:07.877000,iOS
+962,Future-Proofed,Scan,2624,Not Specified,2020-08-17T13:55:03.813000,iOS
+963,Advanced,Click,2624,Not Specified,2020-08-17T13:54:20.283000,iOS
+964,Advanced,Click,2624,Not Specified,2020-08-17T13:54:15.780000,iOS
+965,Advanced,Scan,2624,Not Specified,2020-08-17T13:53:58.060000,iOS
+966,Solution-Oriented,Click,89,Male,2020-08-17T14:00:47.110000,Android
+967,Solution-Oriented,Click,89,Male,2020-08-17T15:15:30.517000,Android
+968,Solution-Oriented,Scan,89,Male,2020-08-17T15:14:25.883000,Android
+969,Multi-Lateral,Click,9965,Not Specified,2020-08-17T16:42:30.637000,iOS
+970,Multi-Lateral,Click,9965,Not Specified,2020-08-17T16:41:58.327000,iOS
+971,Multi-Lateral,Scan,9965,Not Specified,2020-08-17T16:41:34.160000,iOS
+972,Multi-Lateral,Click,9965,Not Specified,2020-08-17T17:12:55.520000,iOS
+973,Multi-Lateral,Click,9965,Not Specified,2020-08-17T17:12:31.437000,iOS
+974,Multi-Lateral,Click,9965,Not Specified,2020-08-17T17:12:17.490000,iOS
+975,Future-Proofed,Scan,89,Male,2020-08-17T17:11:23.537000,Android
+976,Focus Group,Switch to Fullscreen Video,9407,Male,2020-08-17T17:25:16.990000,iOS
+977,Focus Group,Switch to Fullscreen Video,9407,Male,2020-08-17T17:24:51.217000,iOS
+978,Focus Group,Switch to Fullscreen Video,9407,Male,2020-08-17T17:23:58.783000,iOS
+979,Focus Group,Scan,9407,Male,2020-08-17T17:23:03.070000,iOS
+980,Focus Group,Switch to Fullscreen Video,992,Female,2020-08-17T17:59:21.107000,iOS
+981,Focus Group,Switch to Fullscreen Video,9036,Not Specified,2020-08-17T17:59:15.177000,iOS
+982,Focus Group,Switch to Fullscreen Video,9036,Not Specified,2020-08-17T17:57:22.990000,iOS
+983,Focus Group,Scan,9036,Not Specified,2020-08-17T17:57:02.083000,iOS
+984,Focus Group,Switch to Fullscreen Video,992,Female,2020-08-17T17:56:58.847000,iOS
+985,Focus Group,Scan,992,Female,2020-08-17T17:56:40.003000,iOS
+986,Cohesive,Scan,5221,Female,2020-08-17T20:18:21.570000,iOS
+987,Focus Group,Switch to Fullscreen Video,1665,Male,2020-08-17T20:18:12.843000,iOS
+988,Focus Group,Scan,1665,Male,2020-08-17T20:17:59.923000,iOS
+989,Cohesive,Scan,5221,Female,2020-08-17T20:17:19.803000,iOS
+990,Installation,Switch to Fullscreen Video,5221,Female,2020-08-17T20:17:06.197000,iOS
+991,Installation,Scan,5221,Female,2020-08-17T20:16:53.400000,iOS
+992,Scalable,Switch to Fullscreen Video,5221,Female,2020-08-17T20:16:04.577000,iOS
+993,Scalable,Scan,5221,Female,2020-08-17T20:15:55.790000,iOS
+994,Installation,Switch to Fullscreen Video,5221,Female,2020-08-17T20:14:32.100000,iOS
+995,Installation,Scan,5221,Female,2020-08-17T20:14:27.207000,iOS
+996,Optimized,Scan,5221,Female,2020-08-17T20:13:52.973000,iOS
+997,Optimized,Scan,5221,Female,2020-08-17T20:13:17.320000,iOS
+998,Focus Group,Switch to Fullscreen Video,1580,Female,2020-08-17T20:26:20.197000,iOS
+999,Focus Group,Scan,1580,Female,2020-08-17T20:25:51.547000,iOS
+1000,Focus Group,Switch to Fullscreen Video,1665,Male,2020-08-17T20:21:30.380000,iOS
