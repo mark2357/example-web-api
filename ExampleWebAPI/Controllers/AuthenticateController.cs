@@ -29,8 +29,10 @@ namespace ExampleWebAPI.Controllers {
         [HttpPost]
         [Route("authenticate")]
         public async Task<IActionResult> Login([FromBody] LoginModel model) {
+            // checks user exists for user-name and password is valid
             var user = await userManager.FindByNameAsync(model.Username);
             if (user != null && await userManager.CheckPasswordAsync(user, model.Password)) {
+
                 var userRoles = await userManager.GetRolesAsync(user);
 
                 var authClaims = new List<Claim>
@@ -58,6 +60,7 @@ namespace ExampleWebAPI.Controllers {
                     expiration = token.ValidTo
                 });
             }
+            // returns 401 as user-name or password is incorrect
             return Unauthorized();
         }
 
@@ -73,15 +76,20 @@ namespace ExampleWebAPI.Controllers {
                 UserName = model.Username
             };
             var result = await userManager.CreateAsync(user, model.Password);
+
+            // if error determine the best error message to return
             if (!result.Succeeded) {
                 string msg = "User creation failed!";
                 bool invalidPassword = false;
+
+                // checks to see if the error is caused by the password being incorrect
                 foreach (IdentityError error in result.Errors) {
                     if(error.Code.Contains("Password")) {
                         msg += " " + error.Description;
                         invalidPassword = true;
                     }
                 }
+                // if the password is invalid returns error with message describing why the password is invalid
                 if (invalidPassword) {
                     return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = msg});
                 }

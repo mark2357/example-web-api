@@ -26,27 +26,36 @@ namespace ExampleWebAPI.Controllers {
         // GET: /events
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Event>>> GetEvents([FromQuery(Name = "start-date")] string stringStartDate, [FromQuery(Name = "end-date")] string stringEndDate) {
-
+            /**
+             * supported date formats (not exclusive) more info here https://docs.microsoft.com/en-us/dotnet/api/system.datetime.tryparse?view=netcore-3.1
+             * YYYY-MM-DD
+             * YYYY-MM-DD HH:MM:SS
+             * YYYY-MM-DDTHH:MM:SS
+             * DD/MM/YYYY
+            /*
+            */
 
             // min value is used as the null value (min value is 00:00:00.0000000 UTC, January 1, 0001)
             DateTime startDate = DateTime.MinValue;
             DateTime endDate = DateTime.MinValue;
 
+            // returns error message specifying how to format date
             if (stringStartDate != null) {
                 if (!DateTime.TryParse(stringStartDate, out startDate)) {
-                    return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "invalid start-date format" });
+                    return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "invalid start-date format, use date format YYYY-MM-DD HH:MM:SS" });
                 }
             }
             if (stringEndDate != null) {
                 if (!DateTime.TryParse(stringEndDate, out endDate)) {
-                    return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "invalid end-date format" });
+                    return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "invalid end-date format, use date format YYYY-MM-DD HH:MM:SS" });
                 }
             }
 
 
 
-
+            // gets data from database
             List<Event> eventsData = await _context.Events.ToListAsync();
+
 
             if (startDate == null && endDate == null) {
                 return eventsData;

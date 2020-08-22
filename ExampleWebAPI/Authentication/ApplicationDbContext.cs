@@ -11,8 +11,6 @@ namespace ExampleWebAPI.Authentication {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser> {
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) {
-
-        
         }
 
         protected override void OnModelCreating(ModelBuilder builder) {
@@ -20,8 +18,9 @@ namespace ExampleWebAPI.Authentication {
 
             // reads sample data from csv file
             List<Event> sampleDataEvents = new List<Event>();
-            int nextId = 1;
+            // used to skip the header line of the csv
             bool firstLine = true;
+
             StreamReader streamReader = new StreamReader("TestData/sample_data.csv");
             while (!streamReader.EndOfStream) {
 
@@ -31,7 +30,7 @@ namespace ExampleWebAPI.Authentication {
                     firstLine = false;
                     continue;
                 }
-
+                // splits line into columns
                 string[] values = line.Split(',');
 
                 sampleDataEvents.Add(
@@ -45,7 +44,6 @@ namespace ExampleWebAPI.Authentication {
                         AppDeviceType = values[6],
                     }
                 );
-                nextId++;
             }
 
             // adds list of sample data

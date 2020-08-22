@@ -69,15 +69,14 @@ namespace ExampleWebAPI {
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseHttpsRedirection();
-
             app.UseRouting();
 
             app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseCors(policy =>
-                policy.WithOrigins(new string[] { "http://localhost:4200" })
+                policy
+                .WithOrigins(new string[] { "http://localhost:4200" })
                 .AllowAnyMethod()
                 .AllowAnyHeader()
             );

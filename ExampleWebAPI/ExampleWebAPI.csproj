@@ -11,6 +11,8 @@
     <Compile Remove="Migrations\20200818133541_SampleData.Designer.cs" />
     <Compile Remove="Migrations\20200819012433_SeedSampleData.cs" />
     <Compile Remove="Migrations\20200819012433_SeedSampleData.Designer.cs" />
+    <Compile Remove="Migrations\20200822062752_test.cs" />
+    <Compile Remove="Migrations\20200822062752_test.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
